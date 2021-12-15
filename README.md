@@ -24,7 +24,7 @@ Here are the game components that you'll need to play the game. Download and pri
 Rosters\
 Situations Cards\
 Play Cards (GB and FB cards)\
-Manager Cards
+[Manager Cards](https://github.com/brianhaferkamp/tabletopbaseballmanager/raw/main/Tabletop%20Manager%20Manager%20Cards.pdf)
 
 ## Gameplay
 
