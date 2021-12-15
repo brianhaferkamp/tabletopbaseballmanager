@@ -20,7 +20,7 @@ Scorecard and pencil/pen
 
 Here are the game components that you'll need to play the game. Download and print these out. Please don't share the components themselves. If you want to share this demo with others, please share the link to this Github repository so others can download the components themselves (the demo is free).
 
-Game Board\
+[Game Board](https://github.com/brianhaferkamp/tabletopbaseballmanager/raw/main/Tabletop%20Manager%20Board.pdf)\
 Rosters\
 Situations Cards\
 Play Cards (GB and FB cards)\
